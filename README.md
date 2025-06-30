@@ -1,2 +1,2 @@
 # aulagit
-#minha primeira auteração 
+#  minha primeira auteração 
